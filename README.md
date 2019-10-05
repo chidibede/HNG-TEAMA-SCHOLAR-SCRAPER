@@ -20,7 +20,7 @@ from selenium import webdriver
 import pandas as pd
 ```
 
-Then Scraped the first 20 pages. The batch scrapinp was to account for a possible 500 server error and 
+Then Scraped the first 20 pages. The batch scraping was to account for a possible 500 server error and 
 not send a lot of traffic from my computer. Below is the code snippet for the scraping.
 ```bash
 ''' Scrape the first 20 pages (pages 1 - 20)'''
